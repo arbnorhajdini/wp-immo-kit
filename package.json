@@ -1,0 +1,20 @@
+{
+  "name": "wp-immo-kit",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "build": "vite build",
+    "watch": "vite build --watch",
+    "wp:start": "wp-env start",
+    "wp:stop": "wp-env stop",
+    "composer": "wp-env run cli --env-cwd=wp-content/plugins/wp-immo-kit composer"
+  },
+  "dependencies": {
+    "vue": "^3.5.45"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^6.0.10",
+    "@wordpress/env": "^12.1.0",
+    "vite": "^8.3.7"
+  }
+}

@@ -1,0 +1,12 @@
+[
+  {"id": 1,  "titel": "Altbauwohnung mit Balkon",      "ort": "Aachen",   "art": "miete", "preis": 950,    "zimmer": 3, "flaeche": 85},
+  {"id": 2,  "titel": "Einfamilienhaus mit Garten",    "ort": "Aachen",   "art": "kauf",  "preis": 489000, "zimmer": 5, "flaeche": 160},
+  {"id": 3,  "titel": "Studentenapartment am Campus",  "ort": "Aachen",   "art": "miete", "preis": 520,    "zimmer": 1, "flaeche": 28},
+  {"id": 4,  "titel": "Penthouse mit Domblick",        "ort": "Köln",     "art": "kauf",  "preis": 790000, "zimmer": 4, "flaeche": 140},
+  {"id": 5,  "titel": "Familienwohnung im Grünen",     "ort": "Köln",     "art": "miete", "preis": 1450,   "zimmer": 4, "flaeche": 105},
+  {"id": 6,  "titel": "Reihenhaus in ruhiger Lage",    "ort": "Düren",    "art": "kauf",  "preis": 329000, "zimmer": 4, "flaeche": 120},
+  {"id": 7,  "titel": "Loft im alten Fabrikgebäude",   "ort": "Düsseldorf","art": "miete", "preis": 1890,   "zimmer": 2, "flaeche": 110},
+  {"id": 8,  "titel": "Stadtvilla mit Pool",           "ort": "Düsseldorf","art": "kauf",  "preis": 1250000,"zimmer": 7, "flaeche": 280},
+  {"id": 9,  "titel": "Gemütliche 2-Zimmer-Wohnung",   "ort": "Eschweiler","art": "miete", "preis": 640,    "zimmer": 2, "flaeche": 58},
+  {"id": 10, "titel": "Bungalow am Waldrand",          "ort": "Stolberg", "art": "kauf",  "preis": 365000, "zimmer": 4, "flaeche": 115}
+]

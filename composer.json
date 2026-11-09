@@ -1,0 +1,14 @@
+{
+  "name": "arbnorhajdini/wp-immo-kit",
+  "description": "WordPress plugin for real estate websites",
+  "type": "wordpress-plugin",
+  "license": "MIT",
+  "require": {
+    "php": ">=8.2"
+  },
+  "autoload": {
+    "psr-4": {
+      "ImmoKit\\": "src/"
+    }
+  }
+}
